@@ -1,33 +1,37 @@
-<h1 align="center">👋 Hello World! I'm Ali Naserian 🚀</h1>
-<h3 align="center">Full-Stack Developer from Iran</h3>
+<h2> Hi, I'm Ali Naserian! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh5ZTl3ejg4aW9reTlodHloY2JpZGZzcGpuMGs3ZHl4ZG5xcmFkOSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30"></h2>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=CyberAli1989&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://twitter.com/ali_1999s" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ali_1999s?logo=twitter&style=for-the-badge" alt="ali_1999s" />
-  </a> 
-</p>
-
-<p align="center">
-  🌱 Currently diving deep into **LiveWire** 🚀
-</p>
+[![Twitter: ali_1999S](https://img.shields.io/twitter/follow/ali_1999s?style=social)](https://twitter.com/ali_1999s)
+[![Linkedin: ali-naserian](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-naserian/)](https://www.linkedin.com/in/ali-naserian/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/naserianali?label=follow&style=social)](https://github.com/naserianali)
 
 <p align="center"> 
   📫 Reach me at <a href="mailto:naserianali@gmail.com">naserianali@gmail.com</a> 
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/ali_1999s" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nasserianali" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+
+```javascript
+const AliNaserian = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Web" , "Backen" , "API"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue" , "Nuxt"],
+            css: ["Scss", "Tailwind", "Bootstrap"],
+        },
+        backEnd: {
+            js: ["NestJS"],
+            php: ["Laravel" , "Livewire"],
+        },
+        devOps: ["Docker🐳", "GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySql", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices"],
+    },
+};
+```
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
