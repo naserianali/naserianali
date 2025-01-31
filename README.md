@@ -32,33 +32,23 @@ const AliNaserian = {
     },
 };
 ```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C656%20hrs%2026%20mins-blue)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
-  <img src="https://laravel-livewire.com/img/leaf-white.svg" alt="Livewire" width="40" height="40"/>
-</p>
+  <div>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="naserianali" />
+      </a>  
+  </div>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naserianali&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+  
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naserianali&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naserianali&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naserianali&" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="scratch.svg" />
-</p>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="Left" width=390 src="https://github-readme-stats.vercel.app/api?username=naserianali&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
