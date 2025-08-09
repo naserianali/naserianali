@@ -48,11 +48,6 @@ $AliNaserian = [
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naserianali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="naserianali" /> <br/> <br/>
-  
-  <img  width=390 src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="naserianali" />
-     
-   <br/> <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naserianali&radius=16&hide_border=true&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
