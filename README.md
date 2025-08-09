@@ -43,3 +43,25 @@ $AliNaserian = [
 
 ```
 <div align="center"> <img width="390" src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" /> <img width="390" src="https://github-readme-stats.vercel.app/api?username=naserianali&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" /> </div> <div align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naserianali&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" /> </div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naserianali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="naserianali" /> <br/> <br/>
+  
+  <img  width=390 src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="naserianali" />
+     
+   <br/> <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naserianali&radius=16&hide_border=true&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naserianali/naserianali/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naserianali/naserianali/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/naserianali/naserianali/output/pacman-contribution-graph.svg">
+</picture>
+
+###
