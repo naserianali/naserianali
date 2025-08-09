@@ -1,54 +1,45 @@
-<h2> Hi, I'm Ali Naserian! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh5ZTl3ejg4aW9reTlodHloY2JpZGZzcGpuMGs3ZHl4ZG5xcmFkOSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30"></h2>
-
-[![Twitter: ali_1999S](https://img.shields.io/twitter/follow/ali_1999s?style=social)](https://twitter.com/ali_1999s)
-[![Linkedin: ali-naserian](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-naserian/)](https://www.linkedin.com/in/ali-naserian/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/naserianali?label=follow&style=social)](https://github.com/naserianali)
-
-<p align="center"> 
-  📫 Reach me at <a href="mailto:naserianali@gmail.com">naserianali@gmail.com</a> 
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C656%20hrs%2026%20mins-blue)
+<h1 align="center">Hi, I'm Ali Naserian! 👋</h1>
+<h3 align="center">Laravel PHP Developer | Backend & API Specialist | Problem Solver</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh5ZTl3ejg4aW9reTlodHloY2JpZGZzcGpuMGs3ZHl4ZG5xcmFkOSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tHIRLHtNwxpjIFqPdV/giphy.gif" width="40">
 </p>
 
+---
 
-```javascript
-const AliNaserian = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Web" , "Backen" , "API"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue" , "Nuxt"],
-            css: ["Scss", "Tailwind", "Bootstrap"],
-        },
-        backEnd: {
-            js: ["NestJS"],
-            php: ["Laravel" , "Livewire"],
-        },
-        devOps: ["Docker🐳", "GitHub Actions"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySql", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices"],
-    },
-};
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/ali_1999s"><img src="https://img.shields.io/twitter/follow/ali_1999s?style=social" /></a>
+  <a href="https://www.linkedin.com/in/ali-naserian/"><img src="https://img.shields.io/badge/-Ali%20Naserian-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/naserianali"><img src="https://img.shields.io/github/followers/naserianali?label=follow&style=social" /></a>
+</p>
+<p align="center">📫 <a href="mailto:naserianali@gmail.com">naserianali@gmail.com</a></p>
+---
+
+### 🛠️ Tech Stack
+```php
+<?php
+
+$AliNaserian = [
+    "pronouns" => "He/Him",
+    "askMeAbout" => ["Laravel", "Backend", "API Design", "DevOps"],
+    "technologies" => [
+        "backend" => [
+            "php" => ["Laravel", "Livewire"],
+            "javascript" => ["NestJS"],
+        ],
+        "frontend" => [
+            "Blade", "Vue.js", "Nuxt.js", "Inertia.js",
+        ],
+        "databases" => ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis"],
+        "devOps" => ["Docker 🐳", "GitHub Actions"],
+        "misc" => ["REST APIs", "WebSockets", "Socket.IO"],
+    ],
+    "architecture" => [
+        "frontend" => ["SPA", "SSR"],
+        "backend" => ["Monolith", "Microservices"],
+    ],
+];
+
 ```
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C656%20hrs%2026%20mins-blue)
-
-  <div>
-      <a href="https://github.com/naserianali" title="Go to Source">
-        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="naserianali" />
-      </a>  
-  </div>  
-
-  
-  <div>
-    <a href="https://github.com/naserianali">
-      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naserianali&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/naserianali" title="Go to Source">
-      <img align="Left" width=390 src="https://github-readme-stats.vercel.app/api?username=naserianali&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+<div align="center"> <img width="390" src="https://streak-stats.demolab.com/?user=naserianali&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" /> <img width="390" src="https://github-readme-stats.vercel.app/api?username=naserianali&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" /> </div> <div align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naserianali&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" /> </div>
